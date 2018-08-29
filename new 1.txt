@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>About Me</title>
+<link rel="stylesheet" type="text/css" href="ok1.css">
+
+
+</head>
+<body background="i.jpg" style="margin: 40px;">
+  <div id="logo" style=" width: 200px; height: 100px;float:left;margin-left: 10px;margin-top: -5px; display:inline-block;">
+      
+    </div>
+    <div id="heading" style=" width: 650px; height: 150px;float:left; margin-left: 100px; margin-top: -5px">
+    <center><h1><i>HEY
+	SOMETHINH KKLLLLLLL</i></h1></center>
+  </div>
+   <div id="nav">
+Query Form
+  <form action="file:///C:/Users/Vinita%20Matai/Desktop/webexp1/ok.html">
+<input type="text" placeholder="First Name" name="fname1"> 
+<input type="text" placeholder="Last Name" name="lname1"><br>
+<input type="text" placeholder="Email" name="email1"><br>
+<input type="text" placeholder="Mobile No" name="mob1"><br>
+<input type="test" placeholder="Query" name="query"><br>
+<input type="radio" value="male" name="sex1"> Male 
+<input type="radio"  value="female" name="sex1"> Female <br>
+<input type="checkbox"  name=""> Are you Sure ?<br>
+<input type="Submit" value="Submit" name="reg">
+
+<br>
+</form>
+</div>
+</body>
+</html>
